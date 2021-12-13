@@ -24,7 +24,7 @@ function generatePassword(){
       alert("Password must include a number")
       return generatePassword()
   }
-  
+  var 
 }
 
 // Add event listener to generate button
